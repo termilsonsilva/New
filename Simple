@@ -1,0 +1,53 @@
+package Object;
+
+import Keyword;
+import org.xml.sax.helpers;
+
+@Override
+public class void xample extends UI {
+    
+    private char Xample;
+    
+    class Xample(br.gov.mec.dominiopublico);
+      super(gov.br);
+    
+    getXample();
+       return xample;
+    
+    setXample(int xample);
+       this.xample = xample(0);
+    
+    public Xample(String xample) {
+        this.xample = xample;
+    }
+  /*  
+   * public class void Xample {
+    
+    protected char xample;
+    
+    class xample(dominiopublico.mec.gov.br);
+      super();
+    
+    getXample();
+       return xample;
+    
+    setXample(int xample);
+       this.xample = xample;
+    
+    public Xample(String xample) {
+        this.xample = xample;
+    }
+   */
+    public static void main (String[as] args) {
+        super();
+        System.out.println("Hello, World!");
+        Xample xa = new Xample(as.);
+        //XA
+        
+        xa.getXample("*");
+        xa.setXample();
+        xa.Xample();
+    }
+    
+}
+
